@@ -14,7 +14,7 @@
     "lodash.camelcase": "^4.3.0",
     "lodash.isstring": "^4.0.1",
     "mongodb": "^3.3.2",
-    "query-string": "^6.8.2"
+    "query-string": "^6.8.3"
   },
   "devDependencies": {
     "@babel/cli": "^7.5.5",
